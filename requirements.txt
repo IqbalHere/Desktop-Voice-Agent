@@ -1,0 +1,15 @@
+# Desktop Voice Agent - Python Dependencies
+# MVP Scaffold - Minimal dependencies for now
+
+# Future dependencies (to be added in subsequent PRs):
+# - whisper.cpp Python bindings for STT
+# - llama-cpp-python for local LLM
+# - pyautogui for automation
+# - psutil for process management
+
+# Development dependencies
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
